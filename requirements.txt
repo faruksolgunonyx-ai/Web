@@ -1,0 +1,6 @@
+fastapi==0.115.*
+uvicorn==0.34.*
+spacy==3.8.*
+textstat==0.7.*
+langdetect==1.0.*
+pydantic==2.10.*
